@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\bin\Debug\net9.0\TODOLIST.exe
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\bin\Debug\net9.0\TODOLIST.deps.json
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\bin\Debug\net9.0\TODOLIST.runtimeconfig.json
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\bin\Debug\net9.0\TODOLIST.dll
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\bin\Debug\net9.0\TODOLIST.pdb
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.AssemblyInfo.cs
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.dll
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\refint\TODOLIST.dll
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.pdb
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\TODOLIST.genruntimeconfig.cache
+C:\Users\user\Desktop\c##\TODOLIST\TODOLIST\obj\Debug\net9.0\ref\TODOLIST.dll
